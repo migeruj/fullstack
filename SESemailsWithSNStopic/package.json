@@ -1,0 +1,17 @@
+{
+  "name": "SESemailsWithSNStopic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "migeruj",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.528.0",
+    "moment-timezone": "^0.5.26",
+    "mongoose": "^5.7.1"
+  }
+}
