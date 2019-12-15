@@ -12,6 +12,6 @@
   "dependencies": {
     "aws-sdk": "^2.528.0",
     "moment-timezone": "^0.5.26",
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.5"
   }
 }
